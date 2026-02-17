@@ -73,7 +73,7 @@ IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini/
 ## Installation
 
 1. Clone Repository
-git clone https://github.com/your-username/intellisql.git
+git clone https://github.com/saisreeja6905/intellisql.git
 cd intellisql
 
 2. Install Dependencies
