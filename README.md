@@ -29,8 +29,7 @@ This project demonstrates how Large Language Models can simplify database intera
 ---
 
 ## Project File Structure
-
-IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini/
+IntelliSQL-Gemini/
 │
 ├── 1. Project Initialization and Planning Phase/
 │   ├── Problem Statements.docx
@@ -59,7 +58,6 @@ IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini/
 │
 └── README.md
 
-
 ---
 
 ## System Workflow
@@ -73,8 +71,8 @@ IntelliSQL-Intelligent-SQL-Querying-with-LLMs-Using-Gemini/
 ## Installation
 
 1. Clone Repository
-git clone https://github.com/saisreeja6905/intellisql.git
-cd intellisql
+git clone https://github.com/saisreeja6905/IntelliSQL-Gemini.git
+cd IntelliSQL-Gemini
 
 2. Install Dependencies
 pip install streamlit python-dotenv google-generativeai
